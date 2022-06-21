@@ -31,7 +31,7 @@
 <a href="https://instagram.com/malakarmalay66" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="malakarmalay66" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/traveling holiday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="traveling holiday" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@malaymalakar345" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@malaymalakar345" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/malay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="malay" height="30" width="40" /></a>
+<a href="[https://auth.geeksforgeeks.org/user/malay](https://auth.geeksforgeeks.org/user/user_kllw0woln2a/practice)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="malay" height="30" width="40" /></a>
 <a href="https://discord.gg/malay" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="malay" height="30" width="40" /></a>
 </p>
 
