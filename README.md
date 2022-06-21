@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://cutt.ly/aOdsCwl](https://kar2410.github.io/Portfolio2022.github.io/)
+- 👨‍💻 All of my projects are available at [](code)
 
 - 💬 Ask me about **Python, Frontend DEVELOPEment**
 
@@ -21,8 +21,6 @@
 - ⚡ Fun fact **I thinK i aM So fuNNy pErsOn**
 
 
-
-[https://cutt.ly/aOdsCwl](https://kar2410.github.io/Portfolio2022.github.io/)
 
 
 <h3 align="left">Connect with me:</h3>
