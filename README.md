@@ -2,12 +2,13 @@
 <h1 align="center">Hi 👋, I'm Malay Malakar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <h3 align="center">I loved - Programming - Travelling - Photography - Watch Movie</h3>
+<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mmalakar345&label=Profile%20views&color=0e75b6&style=flat" alt="mmalakar345" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/malay" target="blank"><img src="https://img.shields.io/twitter/follow/malay?logo=twitter&style=for-the-badge" alt="malay" /></a> </p>
-
-<img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg"> 
+ 
 
 - 🌱 I’m currently learning **Machine Learning**
 
