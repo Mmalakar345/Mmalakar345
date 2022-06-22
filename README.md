@@ -42,6 +42,7 @@
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mmalakar345" alt="mmalakar345" /></a> </p>
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmalakar345&show_icons=true&locale=en&layout=compact" alt="mmalakar345" /></p>
 
