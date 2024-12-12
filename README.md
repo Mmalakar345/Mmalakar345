@@ -10,11 +10,11 @@
 <p align="left"> <a href="https://twitter.com/MalayMalakar9?t=OaCAU0s3h2pw3QyPUxdK2g&s=08" target="blank"><img src="https://img.shields.io/twitter/follow/MalayMalakar9?logo=twitter&style=for-the-badge" alt="MalayMalakar9" /></a> </p>
  
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 I’m currently learning **Java Developement**
 
 - 👨‍💻 All of my projects are available at [](code)
 
-- 💬 Ask me about **Python, Frontend DEVELOPEment**
+- 💬 Ask me about **PytHoN or jAvA, Full sTaCk DEVELOPEment**
 
 - 📫 How to reach me **malaymalakar@gmail.com**
 
