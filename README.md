@@ -49,7 +49,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mmalakar345&show_icons=true&locale=en" alt="mmalakar345" /></p>
 
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmalakar345&" alt="mmalakar345" /></p>/-->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmalakar345&" alt="mmalakar345" /></p>
 
 <a href="https://github.com/Mmalakar345/github-readme-activity-graph"><img alt="Malay's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mmalakar345&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
